@@ -54,5 +54,38 @@ Por certo, como essas variáveis são importantes para o desenvolvimento do proj
 
 # Histogramas sobre as Variáveis Qualitativas<br>
 
+A análise do histograma é importante pois nos da uma visão melhor sobre a destribuição desigual de uma variável.
 
+o primeiro histograma mostra a distribuição de uma variável UF no eixo x;
+![UF](img/histoUF.png)
+
+o segundo histograma mostra a distribuição de uma variável capital no eixo x;
+![UF](img/capital.png)
+
+o terceiro histograma mostra a distribuição de uma variável urbano ou rural no eixo x;
+![UF](img/ru_ur.png)
+
+o quarto histograma mostra a distribuição de uma variável tipo de área pelo eixo x;
+![UF](img/tipo_area.png)
+
+o quinto histograma mostra a distribuição de uma variável pessoas por casa pelo eixo x;
+![UF](img/pessoas.png)
+
+o sexto histograma mostra a distribuição de uma variável sexo pelo eixo x;
+![UF](img/sexo.png)
+
+o sétimo histograma mostra a distribuição de uma variável alfabeto pelo eixo x;
+![UF](img/alfab.png)
+
+o oitavo histograma mostra a distribuição de uma variável cor pelo eixo x;
+![UF](img/cor.png)
+
+o nono histograma mostra a distribuição de uma variável frequentou escola ou não pelo eixo x;
+![UF](img/escola.png)
+
+o décimo histograma mostra a distribuição de uma variável atividade remunerada ou não pelo eixo x;
+![UF](img/ativi_remu.png)
+
+o décimo primeiro histograma mostra a distribuição de uma variável nível de instrução pelo eixo x;
+![UF](img/nivel_instru.png)
 #
