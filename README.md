@@ -71,7 +71,7 @@ mínimo: 1<br>
 75%: 4<br>
 máximo: 22<br>
 
-Os demais apresentam a mesma informações, mas para variáveis distintas, respectivamente:<br>
+Os demais apresentam as mesmas informações, mas para variáveis distintas, respectivamente:<br>
 
 -> rendimento bruto mensal em dinheiro, com valores aproximados para:<br>
 média: 1090<br>
