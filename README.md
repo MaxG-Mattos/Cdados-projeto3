@@ -5,6 +5,57 @@ Target: Renda <br>
 Features: Educação, Emprego, Sexo, Número de Moradores <br>
 #
 
+# Tema:
+Considerando fatores sociais, como nível de escolaridade e ocupação profissional, o objetivo deste projeto é entender como essas variáveis podem ser usadas para prever a renda domiciliar média de uma população. Com base nesses dados, buscamos mapear as principais características socioeconômicas que influenciam diretamente a renda em diferentes regiões brasileiras, identificando se esses fatores variam de acordo com o contexto regional e em que medida cada um impacta a renda domiciliar média.
+
+A compreensão desses fatores que afetam a renda é relevante porque pode contribuir para o desenvolvimento de políticas públicas voltadas à redução das desigualdades regionais.
+
+Percebemos que tal questionamento é válido uma vez que já foi abordado em artigos científicos como em Impacto da educação sobre a pobreza e distribuição de renda no Brasil (2002), Deliberalli Priscila Pereira e O impacto da escolaridade sobre a distribuição de renda, Marcio Antonio Salvato.
+#
+
+# Descrição das Variáveis:
+1. UF: Essa variável diz respeito a cada estado e, considerando que cada um tem diferentes níveis de desenvolvimento econômico e oportunidades de emprego, essa informação impacta diretamente a renda média de seus habitantes.
+
+
+2. Capital: A renda de quem vive na capital geralmente é maior devido ao maior acesso a empregos bem remunerados.
+
+
+3. Rural ou Urbano: As cidades concentram um maior acesso a empregos formais e renda mais alta em comparação aos moradores de áreas rurais.
+
+
+4. Tipo de área: Áreas metropolitanas e centrais geralmente oferecem melhores oportunidades de trabalho e, consequentemente, renda mais elevada.
+
+
+5. Pessoas na Casa: O número de pessoas na casa pode indicar necessidade de maior renda, famílias maiores geralmente têm uma renda per capita menor.
+
+
+6. Sexo: A análise dessa variável ajuda a identificar possíveis desigualdades salariais entre homens e mulheres.
+
+
+7. Alfabetizado?: Pessoas alfabetizadas têm acesso a empregos melhor remunerados, aumentando potencialmente sua renda.
+
+
+8. Idade: Idade pode estar associada ao nível de experiência e, portanto, ao potencial de renda, até determinado ponto na carreira.
+
+
+9. Cor: A variável pode revelar desigualdades raciais no acesso a empregos e salários mais altos.
+
+
+10. Frequentou escola?: Ter frequentado a escola indica melhor acesso ao mercado de trabalho e maiores chances de empregos bem remunerados.
+
+
+11. Rendimento bruto mensal em dinheiro: Representa a própria renda mensal do indivíduo, sendo o valor direto a ser previsto.
+
+
+12. Trabalha ou faz estágio remunerado: A presença no mercado de trabalho ou estágio remunerado tende a aumentar a renda mensal.
+
+
+13. Nível de instrução mais elevado alcançado (>= 5 anos): Níveis mais altos de instrução correlacionam-se com melhores empregos e, portanto, renda mais alta.
+
+
+14. Anos de estudo (>= 5 anos): Anos adicionais de estudo geralmente aumentam as qualificações e potencial de renda do indivíduo.
+#
+
 # Descrição da Secção de Boxblots sobre as Variáveis Quantitativas<br>
 Na primeira sessão de gráficos, foram expostas as distribuições de 4 variáveis.<br>
 
